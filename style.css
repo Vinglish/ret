@@ -1,0 +1,55 @@
+body{
+	margin:0;
+}
+.first{
+	display:flex;
+	justify-content: center;
+	background-color: red;
+
+
+}
+.a{
+	height:50px;
+	background-color: red;
+
+}
+.c{
+	display:flex;
+	
+	justify-content: space-between;
+	margin:0;
+	padding:0;
+	flex-wrap: wrap;
+	
+
+	}
+	
+	
+li{
+	 list-style-type:none;
+	border: none;
+	padding:10px;
+	background-color: #fff;
+	font-size: 25px;
+
+}
+.d{
+	height:50px;
+	background-color: red;
+}
+hr{
+	 height:10px;
+	 border:none;
+	 background-color: black;
+	 margin:0;
+	 }
+.rt{
+	display:flex;
+	justify-content: center;
+	margin-top: 50px;
+}
+.second{
+	display:flex;
+	flex-direction: column;
+	align-items:center;
+}
